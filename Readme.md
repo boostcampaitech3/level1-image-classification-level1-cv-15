@@ -71,9 +71,3 @@ COVID-19의 확산으로 우리나라를 포함한 전 세계 사람들은 경�
 - Private_f1 : 0.7270
 
 ![image](https://user-images.githubusercontent.com/59071505/168463477-cd79b953-a816-495c-94ec-f551dff90509.png)
-
-&nbsp;
-
-## 💡Wrap up Report
-
-[이미지 분류_팀 리포트(CV_15조)](https://github.com/boostcampaitech3/level1-image-classification-level1-cv-15/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98_CV_%ED%8C%80%20%EB%A6%AC%ED%8F%AC%ED%8A%B8(15%EC%A1%B0).pdf)
